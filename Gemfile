@@ -18,10 +18,12 @@ group :assets do
 
   gem 'uglifier', '>= 1.0.3'
 
-gem 'zurb-foundation', '~> 4.0.0'
+  gem 'zurb-foundation', '~> 4.0.0'
 end
 
 gem 'jquery-rails'
+
+gem 'devise'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
